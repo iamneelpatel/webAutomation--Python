@@ -1,4 +1,4 @@
-# Autmating online classes!
+# Automating online classes!
 
 <h2><b><i>About:</i></b></h2>
 <p>
