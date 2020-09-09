@@ -24,7 +24,7 @@
 
 <h2><b><i>To use this source follow the following steps:</i> </b></h2>
 
-<b> 1) </b> I have written a function to track your mouse movements. The values that we get are the co-ordinates of the mouse. Lets say you open a webpage...and there is a button that you need to click. Run the mouse tracking function, hover over that button and get the co-ordinates of your mouse at that point. By doing that we now have the location of the specific button on your screen. You can substitue those values in the program where it says: pyautogui.moveTo(x,y). Replace 'x' and 'y' with your values.
+<b> 1) </b> The program contains few lines of code that will track your mouse movements as show in the image below. The values that we get are the co-ordinates of the mouse at a specific point on your screen. Lets say you open a webpage...and there is a button that you need to click. Run the mouse tracking function, hover over that button and get the co-ordinates of your mouse at that point. By doing that we now have the location of the specific button on your screen. You can substitue those values in the program where it says: pyautogui.moveTo(x,y). Replace 'x' and 'y' with your values.
 
 <p align="center">
 <img src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img1.PNG" alt="example image" height="400" >
