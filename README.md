@@ -38,5 +38,5 @@ Move your mouse to position where it is going to be use...
 </p>
 
 <p>
-  <b> Thanks for dropping by and trying my program. I am open to feedbacks. </b>
+  <h5>Thanks for dropping by and trying my program. I am open to feedbacks.</h5>
 </p>
