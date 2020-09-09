@@ -28,3 +28,11 @@ Move your mouse to position where it is going to be use...
   <li>time</li>
   <li>webbrowser</li>
 </ul>
+
+<p>
+  
+  We use pyautogui and sys to control our mouse movements. <br>
+  We use time module to take breaks while our program is running.<br>
+  We use webbrowser to control website tasks like opening a webpage.
+  
+</p>
