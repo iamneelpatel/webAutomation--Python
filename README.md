@@ -1,5 +1,4 @@
 # Autmating online classes!
-Managed to automate joining online classes online...
 
 <h2><b><i>About:</i></b></h2>
 <p>
