@@ -11,7 +11,7 @@
 1) Firstly to get your mouse co-ordinates comment all the other proccesses and note down your mouse co-ordinates.
 Move your mouse to position where it is going to be use...
 
-<img height="300" src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img1.PNG">
+<img height="400" align="center" src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img1.PNG">
 
 
 
