@@ -18,5 +18,5 @@ Move your mouse to position where it is going to be use...
 2) Once you have the co-ordinates of the buttons that are going to be used. You can substitute those values in the program, you are free to add as many mouse movements as you want.
 
 <p  align="center">
-  
+  <img src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img2.PNG" alt="example image2" height="400">
 </p>
