@@ -8,10 +8,10 @@
 
 <h2><b><i>To use this source follow the following steps:</i> </b></h2>
 
+<img align = "right" src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img1.PNG">
+
 1) Firstly to get your mouse co-ordinates comment all the other proccesses and note down your mouse co-ordinates.
 Move your mouse to position where it is going to be use...
-
-<img align = "right" src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img1.PNG">
 
 
 
