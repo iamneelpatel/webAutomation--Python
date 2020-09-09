@@ -20,3 +20,11 @@ Move your mouse to position where it is going to be use...
 <p  align="center">
   <img src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img2.PNG" alt="example image2" height="400">
 </p>
+
+<h2><b><i>Modules used:</i></b></h2>
+
+<ul>
+  <li>pyautogui, sys</li>
+  <li>time</li>
+  <li>webbrowser</li>
+</ul>
