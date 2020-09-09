@@ -37,3 +37,6 @@ Move your mouse to position where it is going to be use...
   <img src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img2.PNG" alt="example image2" height="400">
 </p>
 
+<p>
+    Thanks for dropping by and trying my program. I am open to feedbacks. 
+</p>
