@@ -13,7 +13,3 @@ Move your mouse to position where it is going to be use...
 
 <img align="center" height="400"  src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img1.PNG">
 
-
-
-
-
