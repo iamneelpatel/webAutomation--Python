@@ -7,7 +7,7 @@ Managed to automate joining online classes online...
   Using web-automation you can prevent being late by just running a python file. 
 </p>
 
-<h2><b></i>To use this source follow the following steps:</i> </b></h2>
+<h2><b><i>To use this source follow the following steps:</i> </b></h2>
 
 1) Firstly to get your mouse co-ordinates comment all the other proccesses and note down your mouse co-ordinates.
 Move your mouse to position where it is going to be use...
