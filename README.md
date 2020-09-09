@@ -24,14 +24,14 @@
 
 <h2><b><i>To use this source follow the following steps:</i> </b></h2>
 
-1) Firstly to get your mouse co-ordinates comment all the other proccesses and note down your mouse co-ordinates.
+<b> 1) </b> Firstly to get your mouse co-ordinates comment all the other proccesses and note down your mouse co-ordinates.
 Move your mouse to position where it is going to be use...
 
 <p align="center">
 <img src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img1.PNG" alt="example image" height="400" >
 </p>
 
-2) Once you have the co-ordinates of the buttons that are going to be used. You can substitute those values in the program, you are free to add as many mouse movements as you want.
+<b> 2) </b> Once you have the co-ordinates of the buttons that are going to be used. You can substitute those values in the program, you are free to add as many mouse movements as you want.
 
 <p  align="center">
   <img src="https://github.com/m4dummies/webAutomation--Python/blob/master/images/img2.PNG" alt="example image2" height="400">
